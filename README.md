@@ -6,3 +6,10 @@ Case Study for FinTech homework
 <li>Found in 2005
 
 
+## Background
+
+
+
+
+
+## Future
