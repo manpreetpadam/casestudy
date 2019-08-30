@@ -1,19 +1,23 @@
-# casestudy
+# Open Banking 
 Case Study for FinTech homework
 
-## Company Information
-<li>Company Name: My Tech Co.
-<li>Found in 2005
+## Overview and Origin
+Company Name: [Yapily](https://www.yapily.com/)
+
+The company is a London based fintech startup that was founded in mid-2017. It provides an Open Banking-based API to help financial service providers and other enterprises to comminucate with banks. 
+
+
+
+## Business Activities
+
+
 
 
 ## Landscape
-After the dot com crash, people were looking for *reliable* opportunities.
 
 
-## Future
+
+## Results
 
 
-## Location - New York City
-[New York](https://en.wikipedia.org/wiki/New_York_City)
-
-![New York Image](Images/nyc.jfif)
+## Recommendations
