@@ -1,6 +1,7 @@
 # eBanking Smart & Secure
 
-This case study will explore how one of the FinTech Start Ups is using open banking framework to make it convinent for  subscribers to connect to and initiate payments between various banks with ease.
+This case study will explore how one of the FinTech Start Ups is using open banking framework to make it convinent and secured for
+subscribers to connect to and initiate payments between various banks with ease.
 
 ## Overview and Origin
 
