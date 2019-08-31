@@ -72,7 +72,7 @@ Since this startup started this year there isn't enough data to determine it's p
 
 ## Recommendations
 
-Currently Yapily uses Standard HTTP Authenication or Token based Authenication, for this I would recommend to use Blockchain to provide security around any payment initiations or accessing bank information. By implementing Blockchain it will give opportunity for the client to start doing transactions using cryptocurrencies between financial institutions. Cyrptocurrency will become a future standard for open banking standard in a cashless society.
+Yapily uses Standard HTTP Authenication or Token based Authenication, for this I would recommend to use Blockchain to provide security around any payment initiations or accessing bank information. By implementing Blockchain it will give opportunity for the client to start doing transactions using cryptocurrencies between financial institutions. Cyrptocurrency will become a future standard for open banking standard in a cashless society.
 
 I would also recommend Yapily to use Artificial Intellegence or Machine Learning Technologies to analyze user's retireved data to provide product recommendations. This will provide Yapily with more target based products and improve their revenues.
 
