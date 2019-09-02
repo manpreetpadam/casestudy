@@ -1,13 +1,12 @@
 # eBanking Smart & Secure
 
-This case study will explore how one of the FinTech Start Ups is using open banking framework to make it convenient and secured for
-subscribers to connect to and initiate payments between various banks with ease.
+This case study will explore how one of the FinTech Start Ups is using open banking framework to make it convenient and secured for subscribers to connect to and initiate payments between various banks with ease.
 
 ## Overview and Origin
 
 Company Name: [Yapily](https://www.yapily.com/)
 
-The company is a London based fintech startup that was founded in mid-2017 by Stefano Vaccino who is an ex-Goldman Sachs employee. It provides an Open Banking-based API to help financial service providers and other enterprises to comminucate with banks.
+The company is a London based fintech startup that was founded in mid-2017 by Stefano Vaccino who is an ex-Goldman Sachs employee. It provides an Open Banking-based API to help financial service providers and other enterprises to comminucate with banks. The company has raised $5.4 Million in seed funding.
 
 The company has been funded by [**HV Holtzbrinck Ventures**](https://www.crunchbase.com/organization/holtzbrinck-ventures) and LocalGlobe. There are few other investors that include Taavet Hinrikus who is chairman and co-founder of [TransferWise](https://transferwise.com/us), Ott Kaukver who is CTO of [Twillio](https://www.twilio.com/) and Roberto Nicastro who was deputy CEO at [UniCredit](https://www.unicreditgroup.eu/en.html).
 
@@ -21,7 +20,7 @@ As the regulations made it easier for third parties to provide new services by a
 
 Yapily's goal is to allow service providers to connect to their banks for both data access and to make payments through a single API. Just like a cloud provider, Yapily wants to position as a technology enabler by providing tools that an enterprise needs to easily manage their connectivity layer.
 
-Yapily currently provides the following Software Development Kits(SDKs) and testing tools that allows to connect the APIs 
+Yapily currently provides the following Software Development Kits(SDKs) and testing tools that allows to connect the APIs
 
 - JSON
 - [Postman](https://www.getpostman.com/)
@@ -30,7 +29,7 @@ Yapily currently provides the following Software Development Kits(SDKs) and test
 - Node.js
 - Python
 
-For more information on Yapily's APIs can be found here 
+For more information on Yapily's APIs can be found here
 
 - [API Docs](https://docs.yapily.com/?version=latest)
 - [Yapily Developer Resources](https://github.com/yapily/developer-resources/wiki)
@@ -64,8 +63,6 @@ Currently Yapily API allows support to 35 biggest banks in Europe, for retrievin
 A few key metrics the companies use to determine their success are defined as shown in sample image
 
 -![June 2019 Performance](Images/June-2019-Key-Performance.JPG)
-
-Since this startup started this year there isn't enough data to determine it's performance with other competitors.
 
 ## Recommendations
 
